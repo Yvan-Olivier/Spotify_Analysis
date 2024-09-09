@@ -19,7 +19,7 @@ It provides information such as track name, artist, release date, ISRC, streamin
 
 
 ## 🔧 Tools & Technologies
-- **Python**: Data analysis, visualization and machine learning for prediction.
+- **Python**: Data analysis and visualization.
 - **GitHub**: Version control.
 
 
